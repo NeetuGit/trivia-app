@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+body {
+  font-family: 'Times New Roman'
+}
+
+.answer {
+  width: 448px;
+  height: 62px;
+  line-height: 62px;
+  text-align: center;
+  border: 1px solid #A6A6A6;
+  cursor: pointer;
+  display: block;
+}
+
+.button{
+  font-size: 24px;
+  font-weight: bold;
+float:right;
+
+}
